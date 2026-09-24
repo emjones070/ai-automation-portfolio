@@ -13,6 +13,7 @@ Built a 24/7 AI voice receptionist that handles inbound calls, answers business-
 6. Triggers an automated workflow
 
 ## Workflow
+→ Customer calls
 → AI Receptionist
 → Customer Information
 → Appointment Booking
